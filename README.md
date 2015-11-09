@@ -1,2 +1,0 @@
-# fccfullstackrepo
-repository for fcc
